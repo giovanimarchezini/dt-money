@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 1400,
+      "createdAt": "2023-11-01T01:52:58.485Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2023-11-01T01:20:58.485Z"
+    },
+    {
+      "id": 3,
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "venda",
+      "price": 2000,
+      "createdAt": "2023-11-01T01:20:58.485Z"
+    },
+    {
+      "description": "Desenvolvimento APP",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-11-15T20:36:17.957Z",
+      "id": 4
+    },
+    {
+      "description": "Tenis",
+      "price": 400,
+      "category": "Compra",
+      "type": "outcome",
+      "createdAt": "2023-11-15T20:37:57.262Z",
+      "id": 5
+    },
+    {
+      "description": "Roupas",
+      "price": 730,
+      "category": "Compra",
+      "type": "outcome",
+      "createdAt": "2023-11-15T20:53:54.066Z",
+      "id": 6
+    }
+  ]
+}
